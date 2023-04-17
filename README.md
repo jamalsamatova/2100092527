@@ -9,7 +9,6 @@
     <a target="_blank" href="https://jamalsamatova.github.io/人物词频统计.html">作业一结果</a>
     <h2>Task 1: 梁祝故事统计</h2>
     <p>从story.txt中读取关于梁祝的故事，统计里面出现次数大于1的人名可视化成barchart。</p>
-    <a target="_blank" href="https://jamalsamatova.github.io/world_earthquakes.html">作业二结果</a>
     <h2>Task 2: 地震信息分析</h2>
     <a target="_blank" href="https://jamalsamatova.github.io/world_earthquakes.html">作业二结果</a>
     <p>在URL的网站进行爬虫，将近期发生地震的信息添加到字典里，并用geo可视化显示世界地图近期发生地震地区，根据震级设定点的大小。</p>
